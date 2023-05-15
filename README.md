@@ -1,0 +1,2 @@
+# caap-project
+inventory
